@@ -20,7 +20,7 @@
 
 Languages and tools:
 
-<p align="center">
+<p align="left">
 
 <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react title=React width="32" height="32"/>
 
