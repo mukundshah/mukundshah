@@ -1,9 +1,10 @@
 <img align ="right" src = "https://i.imgur.com/fwO0TqB.jpeg" width="150" height="150">
 
 ## Hi! 👋 I'm Mukund Shah😃
+<p>
+    A tech enthusiast who loves to explore new technologies and leverage it to solve real-life problems 🎢👓;and loves learning more than one could 😀😀.
+</p>
 
-    A tech enthusiast who loves to explore new technologies and leverage it to solve real-life problems 🎢👓;
-    and loves learning more than one could 😀😀.
 
 <br/>
 
