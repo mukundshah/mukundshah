@@ -56,4 +56,4 @@ Languages and tools:
 
 <br/>
 
-[(https://github-readme-stats.vercel.app/api?username=mukundshah)](https://github.com/mukundshah)
+[![Mukund Shah](https://github-readme-stats.vercel.app/api?username=mukundshah)](https://github.com/mukundshah)
