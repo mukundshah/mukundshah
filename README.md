@@ -17,7 +17,7 @@ A tech enthusiast who loves to explore new technologies and leverage it to solve
 <br/>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundshah&layout=default&langs_count=3" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundshah&layout=compact&langs_count=8" alt="Top Langs">
   &nbsp; 
     <img src="https://github-readme-stats.vercel.app/api?username=mukundshah&show_icons=true&count_private=true&custom_title=Mukund%27s%20GitHub%20Stat&include_all_commits=true" alt="GitHub Stat">
 </p>
